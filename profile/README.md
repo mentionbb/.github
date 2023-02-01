@@ -30,3 +30,6 @@
 - **Advanced template system.** Mention uses an improved Twig 3.0 engine. You can use this engine in plugins and various everywhere. There is quite a detailed area for editing templates in the admin panel.
 
 And much much more.
+
+# About this project
+The project has just been made public. That's why the documentation is missing. We will upload it in time.
