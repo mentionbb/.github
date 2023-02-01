@@ -32,6 +32,6 @@
 And much much more.
 
 # About this project
-The project has just been made public. That's why the documentation is missing. We will upload it in time.
-The demo site will be accessible soon.
-English language addon is in develop.
+- The project has just been made public. That's why the documentation is missing. We will upload it in time.
+- The demo site will be accessible soon.
+- English language addon is in develop.
