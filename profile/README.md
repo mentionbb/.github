@@ -13,12 +13,8 @@
 
 <p align="center">
     <picture>
-        <img alt="Mention Index" src="https://github.com/mentionbb/.github/blob/main/screenshots/index-01.jpg?raw=true"
-            width="500px">
-    </picture>
-    <picture>
         <img alt="Mention Index" src="https://github.com/mentionbb/.github/blob/main/screenshots/index-01-dark.jpg?raw=true"
-            width="500px">
+            width="700px">
     </picture>
 </p>
 
